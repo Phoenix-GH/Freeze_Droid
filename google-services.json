@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "56543558559",
+    "firebase_url": "https://freeze-147702.firebaseio.com",
+    "project_id": "freeze-147702",
+    "storage_bucket": "freeze-147702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56543558559:android:0a1550344490557d",
+        "android_client_info": {
+          "package_name": "silvergate.freeze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56543558559-gt42s5omvhbhav3r51pr1jraccvosf1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1jbm_9QCQrp609gt1Uj9jk0qxv4P148"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

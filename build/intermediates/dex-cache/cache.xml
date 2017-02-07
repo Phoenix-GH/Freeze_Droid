@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andy/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider/2.2.22/6ddcf148b81c8a388d17964d78cf3e26f0ae9bc/aws-android-sdk-cognitoidentityprovider-2.2.22.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="06ddcf148b81c8a388d17964d78cf3e26f0ae9bc">
+        <dex dex="/Users/andy/Downloads/Freeze/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognitoidentityprovider-2.2.22-0bcda746c88ad3951c269fbcc3ddd10240b4b696.jar" />
+    </item>
+
+</items>
